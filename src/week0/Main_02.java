@@ -52,5 +52,6 @@ public class Main_02 {
                 match[i] = true;
             }
         }
+        System.out.println("");
     }
 }

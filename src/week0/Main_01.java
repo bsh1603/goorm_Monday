@@ -34,5 +34,6 @@ public class Main_01 {
         });
 
         System.out.println(input[k-1]);
+        System.out.println("");
     }
 }
